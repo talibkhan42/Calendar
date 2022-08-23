@@ -1,8 +1,8 @@
 # Event-Calendar-Using-HTML-CSS-JAVASCRIPt
 
-### By Sachin Kumar
+### By Talib khan
 
-#### [Link to View my work](https://Sachin-event-calendar.netlify.app)
+#### [Link to View my work](   )
 
 ## Technologies Used
 
